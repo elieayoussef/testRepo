@@ -1,0 +1,8 @@
+var file=require("file"); 
+//.#scenarioA3 read a file that has an invalid name (spcial characters @#$%^&*(). Failure
+//var test= file.read("../././test/scr");
+//var test2= file.read("sshiTest.html");
+
+var test1= file.get("@#$@#$@#$");
+
+  return test1;
