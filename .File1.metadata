@@ -1,1 +1,1 @@
-{"acl":{"read":"BananaPI@V5ED28C43E;group:script-execute","write":"nobody","execute":"nobody"},"contentType":"application\/vnd.scriptr-javascript","userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
+{"acl":{"read":"BananaPI@V5ED28C43E;group:script-execute","write":"nobody","execute":"nobody"},"contentType":"text\/plain","userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
